@@ -1,5 +1,5 @@
 import { ScrollUp } from "@/components/Common";
-import {Brands, Contact, Features, Hero, Pricing, Testimonials, Video, HowItWorks } from "@/components/LandingPage";
+import {Brands, Contact, Features, Hero, Pricing, Testimonials, Video, HowItWorks, FAQs } from "@/components/LandingPage";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -17,6 +17,7 @@ export default function Home() {
       <Video />
       <Testimonials />
       <Pricing />
+      <FAQs />
       <Contact />
     </>
   );

@@ -16,7 +16,7 @@ const landingPageMenuData: Menu[] = [
   {
     id: 2,
     title: "FAQs",
-    path: "#FAQs",
+    path: "#faq",
     newTab: false,
   },
   {

@@ -71,7 +71,7 @@ const HowItWorks = () => {
               Fill out a short form and select the style you are looking for
             </h3>
             <p className="text-sm mt-2">
-              It's easy to find the right style for you with our online form.
+              It is easy to find the right style for you with our online form.
             </p>
           </div>
         </div>
